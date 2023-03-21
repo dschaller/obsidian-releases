@@ -6211,6 +6211,13 @@
         "author": "Karthik S Raju",
         "description": "Enhanced highlights for Obsidian",
         "repo": "KarthikRaju391/obsidian-float"
-    }
+    },
+    {
+        "id": "embed-link",
+        "name": "Embed Link",
+        "author": "Derek Schaller",
+        "description": "Embed links in a note automatically fetching page titles and previews.",
+        "repo": "dschaller/obsidian-embed-link"
+    },
 ]
 
